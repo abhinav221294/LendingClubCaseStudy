@@ -13,7 +13,7 @@
 ## General Information
 - Lending case is a marketplace for lending various type of loans like home loans, personal loans, business loans etc that matches borrower who are seeking a loan with investors  looking to lend money and make a return.
 - We were trying to analyze what are the all driving factor that is causing a loan to default and how to reduce that which help the company to reduce the financial losses.
-- We used the loan data to analyze the problem.
+- We used the loan data (loan.csv file) to analyze the problem.
 
 
 
