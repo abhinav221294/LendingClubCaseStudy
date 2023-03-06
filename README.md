@@ -48,7 +48,7 @@
 
 
 ## Acknowledgements
-Thanks you Upgrad and IIT bangalore for giving such a beatiful project.
+Thanks you Upgrad and IIIT bangalore for giving such a beautiful project.
 
 
 ## Contact
